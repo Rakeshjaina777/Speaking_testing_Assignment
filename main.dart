@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Sivi English Tutor',
+      title: ' Chatbox Tutor',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -62,7 +62,7 @@ class DashboardScreen extends StatelessWidget {
         children: [
           SizedBox(height: 30),
           Text(
-            'Welcome to Sivi!',
+            'Welcome to Chatbox!',
             style: TextStyle(
               fontSize: 24,
               fontWeight: FontWeight.bold,
