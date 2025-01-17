@@ -1,4 +1,4 @@
-# Sivi English Tutor
+# Chatbot
 
 Sivi is an English language learning app that helps users practice conversations, receive speech corrections, and engage in media-based learning (images/videos). It provides an intuitive interface where users can have spoken and text-based conversations, with real-time speech recognition, corrections, and personalized feedback.
 
@@ -18,10 +18,6 @@ Sivi is an English language learning app that helps users practice conversations
   <img src="https://github.com/user-attachments/assets/fc212c40-0abe-4cd8-a1cb-9571bf89c4f9" width="250px" alt="Screenshot 3"/>
   <img src="https://github.com/user-attachments/assets/922cf8e4-ee27-49bf-998f-f98fa3ae27fa" width="250px" alt="Screenshot 4"/>
 </div>
-
-## Video Link
-
-(https://drive.google.com/file/d/1jrdR0QcX0ev05Knr_6uiXE8HajuDsaht/view?usp=drive_link)
 
 
 
