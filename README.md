@@ -15,7 +15,6 @@ Chatbox is an English language learning app that helps users practice conversati
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1ffb002c-4e4a-4f75-8dd6-8ba0b18c6bf7" width="250px" alt="Screenshot 1"/>
   <img src="https://github.com/user-attachments/assets/8b02a766-8b05-4e83-9bbd-82c07b773c70" width="250px" alt="Screenshot 2"/>
   <img src="https://github.com/user-attachments/assets/fc212c40-0abe-4cd8-a1cb-9571bf89c4f9" width="250px" alt="Screenshot 3"/>
   <img src="https://github.com/user-attachments/assets/922cf8e4-ee27-49bf-998f-f98fa3ae27fa" width="250px" alt="Screenshot 4"/>
