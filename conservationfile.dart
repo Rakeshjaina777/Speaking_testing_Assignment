@@ -127,7 +127,7 @@ class _ConversationsScreenState extends State<ConversationsScreen> {
   }
 
   void _scrollToBottom() {
-    Future.delayed(Duration(milliseconds: 100), () {
+    Future.delayed(Duration(milliseconds: 105), () {
       _scrollController.jumpTo(_scrollController.position.maxScrollExtent);
     });
   }
